@@ -1,2 +1,5 @@
 # IdCard
-Script that generates id cards for individuals provided dataset in csv and images saved as the name of the individual.
+Code that generates identity cards for 
+individuals present in the provided dataset
+in csv and uses images saved under the name 
+of those very same individuals.
